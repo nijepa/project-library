@@ -118,6 +118,7 @@ btn.onclick = function() {
 span.onclick = function() {
   modal.style.display = "none";
 }
+
 btnCancel.onclick = function() {
   modal.style.display = "none";
 }
